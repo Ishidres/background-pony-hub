@@ -1,0 +1,30 @@
+{
+  "name": "background-pony-hub",
+  "version": "1.0.0",
+  "description": "Report issues, make feature requests, get help or find a list of useful links and ressources related to Background Pony.",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishidres/background-pony-hub.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discordapp",
+    "pony",
+    "derpibooru",
+    "derpi",
+    "background",
+    "pony",
+    "hub"
+  ],
+  "author": "Ishidres (ishidres.eu)",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Ishidres/background-pony-hub/issues"
+  },
+  "homepage": "https://github.com/Ishidres/background-pony-hub#readme"
+}
