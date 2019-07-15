@@ -20,4 +20,4 @@ Please check for dublicates before creating a new issue <a href="https://ishidre
 Background Pony lives through its community! Join our <a href="https://ishidres.eu/background-pony/discord" target="_blank">Discord Community server</a>!
 
 ## Donate
-Donations help me host the Discord bot on a stable server. I'm happy about every donation! :) Donate <a href="https://ishidres.eu/patreon" target="_blank">here</a>!
+Donations help me host the Discord bot on a stable server. I'm happy about every donation! 😃 Donate <a href="https://ishidres.eu/patreon" target="_blank">here</a>!
