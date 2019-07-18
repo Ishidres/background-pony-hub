@@ -1,5 +1,6 @@
 <div align="center">
     <img width="100%" height="auto" src="res/logo.png">
+    <img alt="Discord" src="https://img.shields.io/discord/583680754769330176.svg?color=%237289DA&label=Discord&logo=Discord&logoColor=%237289DA">
 </div>
 
 # Welcome
