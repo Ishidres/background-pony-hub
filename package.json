@@ -1,14 +1,14 @@
 {
-  "name": "background-pony-hub",
+  "name": "derpy-hub",
   "version": "1.0.0",
-  "description": "Report issues, make feature requests, get help or find a list of useful links and ressources related to Background Pony.",
+  "description": "Report issues, make feature requests, get help or find a list of useful links and ressources related to Derpy Hooves.",
   "main": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ishidres/background-pony-hub.git"
+    "url": "git+https://github.com/Ishidres/derpy-hub.git"
   },
   "keywords": [
     "discord",
@@ -17,14 +17,15 @@
     "pony",
     "derpibooru",
     "derpi",
-    "background",
+    "derpy",
+    "derpy hooves",
     "pony",
     "hub"
   ],
   "author": "Ishidres (ishidres.eu)",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/Ishidres/background-pony-hub/issues"
+    "url": "https://github.com/Ishidres/derpy-hub/issues"
   },
-  "homepage": "https://github.com/Ishidres/background-pony-hub#readme"
+  "homepage": "https://github.com/Ishidres/derpy-hub#readme"
 }
