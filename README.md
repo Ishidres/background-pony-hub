@@ -5,6 +5,7 @@
     <a href="https://github.com/Ishidres/derpy-hub/issues"><img alt="Issues" src="https://img.shields.io/github/issues/Ishidres/derpy-hub"></a>
     <a href="https://github.com/Ishidres"><img alt="Follow Ishidres on GitHub" src="https://img.shields.io/github/followers/Ishidres?label=Follow&style=social"></a>
     <a href="https://twitter.com/Ishidres"><img alt="Follow Ishidres on Twitter" src="https://img.shields.io/twitter/follow/Ishidres?style=social"></a>
+    <a href="https://discordbots.org/bot/583384664513708033" target="blank_"><img alt="Derpy Hooves Bot" src="https://discordbots.org/api/widget/servers/583384664513708033.svg"></a>
 </div>
 
 # Welcome
