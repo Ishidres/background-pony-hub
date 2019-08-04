@@ -1,6 +1,10 @@
 <div align="center">
     <img width="100%" height="auto" src="res/derpy_hooves_logo.png">
     <a href="https://discord.gg/Grnwj3x" target="blank_"><img alt="Discord" src="https://img.shields.io/discord/583680754769330176.svg?color=%237289DA&label=Discord&logo=Discord&logoColor=%237289DA"></a>
+    <a href="https://patreon.com/join/Ishidres"><img alt="Patreon" src="https://img.shields.io/badge/dynamic/json?url=https://shieldsio-patreon.herokuapp.com/Ishidres&label=Patreon&query=$.message&color=f86754"></a>
+    <a href="https://github.com/Ishidres/derpy-hub/issues"><img alt="Issues" src="https://img.shields.io/github/issues/Ishidres/derpy-hub"></a>
+    <a href="https://github.com/Ishidres"><img alt="Follow Ishidres on GitHub" src="https://img.shields.io/github/followers/Ishidres?label=Follow&style=social"></a>
+    <a href="https://twitter.com/Ishidres"><img alt="Follow Ishidres on Twitter" src="https://img.shields.io/twitter/follow/Ishidres?style=social"></a>
 </div>
 
 # Welcome
